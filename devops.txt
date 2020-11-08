@@ -1,0 +1,10 @@
+Hi,
+
+This is an First Simple sample program in the DevOps.
+
+I am creating this file to push into all clinet machines using the ansible.
+
+
+
+Thanks & Regards
+Devaraj Devops
